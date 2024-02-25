@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jan</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jan-queralt&label=Profile%20views&color=0e75b6&style=flat" alt="jan-queralt" /> </p>
 <h3 align="center">A passionate frontend developer from Spain</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jan-queralt&label=Profile%20views&color=0e75b6&style=flat" alt="jan-queralt" /> </p>
 
 - 🔭 I’m currently working on **SEO platform**
 
