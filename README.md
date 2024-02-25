@@ -1,4 +1,4 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz21VQYUVd9n72IlG7SMoNhYrXO62ZHaWqqU6IPaib0c17SOWHMb4wcXI7sZ99ZBDOsA&usqp=CAU" alt="Banner" style="width: 100%; height: 90%;">
+<img src="https://i.ibb.co/yfVgxnz/modern-design-digital-wallpaper-banner-260nw-1063258442-1.png" alt="Banner" style="width: 100%; height: 90%;">
 
 # Nombre de tu proyecto
 Descripción corta de tu proyecto.
